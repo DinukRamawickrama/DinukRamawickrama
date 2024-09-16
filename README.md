@@ -3,7 +3,7 @@
 
 - 🔭 I am an aspiring DevOps engineer and an undergraduate at the University of Kelaniya.!
 
-- ✨ I'm a Self Quick Learner with Positive Mind, 
+- ✨ I'm a Self Quick Learner with Positive Mind. 
 
 - 👯 I’m looking for an DevOps Internship/trainee position for enhance my hands on experiance real world projects.
 
