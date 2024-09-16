@@ -19,30 +19,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Aspiring%20DevOps%20Engineer;1%20year%20of%20Network%20Experience;%20Undergraduate%20at%20University%20of%20Kelaniya%20;%20Always%20Learning%20New%20Technologies&font=Ubuntu-Mono&center=true&width=850&height=120&color=58a6ff&vCenter=true">
 </a>
 
-
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DinukRamawickrama&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DinukRamawickrama&theme=github_dark)
-
-
+<br>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=DinukRamawickrama.DinukRamawickrama" />
 <img align="right" src="https://img.shields.io/github/followers/DinukRamawickrama?label=Follow&style=social" />
+<h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=DinukRamawickrama&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinukRamawickrama&layout=compact&theme=monokai&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinukRamawickrama&layout=compact&theme=monokai&count_private=true">
+<img height="150px" />
 
 
 
 
 
 <br />
-<br/>
-<br/>
-<br/>
-<hr/>
-
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -67,6 +56,7 @@
 
 
 
+
 <!--END_SECTION:waka-->
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
@@ -80,3 +70,4 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/dinuk-kaumika-ramawickrama-2b1082222/?trk=opento_sprofile_topcard
+
