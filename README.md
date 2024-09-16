@@ -3,7 +3,7 @@
 
 - 🔭 I am an aspiring DevOps engineer and an undergraduate at the University of Kelaniya.!
 
--    I'm a Self Quick Learner with Positive Mind, 
+- ✨ I'm a Self Quick Learner with Positive Mind, 
 
 - 👯 I’m looking for an DevOps Internship/trainee position for enhance my hands on experiance real world projects.
 
@@ -16,8 +16,9 @@
 
 
 <a href="https://github.com/fairyland0926">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Aspiring%20DevOps%20Engineer;1%20year%20of%20Network%20Experience;%20Undergraduate%20of%20University-of-Kelaniya%20;%20Always%20Learning%20New%20Tech&font=Ubuntu+Mono&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=12">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Aspiring%20DevOps%20Engineer;1%20year%20of%20Network%20Experience;%20Undergraduate%20of%20University-of-Kelaniya%20;%20Always%20Learning%20New%20Tech&font=Cousine&center=true&width=850&height=120&color=58a6ff&vCenter=true">
 </a>
+
 
 
 
