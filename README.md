@@ -40,6 +40,8 @@
 
 
 <br />
+<br/>
+<hr/>
 
 
 <h3 align="left">Languages & Tools:</h3>
