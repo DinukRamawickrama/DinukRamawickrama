@@ -16,7 +16,7 @@
 
 
 <a href="https://github.com/fairyland0926">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Aspiring%20DevOps%20Engineer;1%20year%20of%20Network%20Experience;%20Undergraduate%20of%20University-of-Kelaniya%20;%20Always%20Learning%20New%20Tech&font=Ubuntu-Mono&center=true&width=850&height=120&color=58a6ff&vCenter=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Aspiring%20DevOps%20Engineer;1%20year%20of%20Network%20Experience;%20Undergraduate%20at%20University%20of%20Kelaniya%20;%20Always%20Learning%20New%20Technologies&font=Ubuntu-Mono&center=true&width=850&height=120&color=58a6ff&vCenter=true">
 </a>
 
 
