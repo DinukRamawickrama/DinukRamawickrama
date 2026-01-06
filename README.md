@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B%20Hello%20World!%20I'm%20Dinuk%20Ramawickrama;%F0%9F%92%BB%20Associate%20DevOps%20Engineer%20@%20Intellimorph;%F0%9F%9B%A1%EF%B8%8F%20Multi-Cloud%20Specialist%20%7C%20CI/CD%20%7C%20Containerization;%E2%9A%A1%EF%B8%8F%20Building%20Scalable%20Cloud%20Infrastructure&font=Fira%20Code&center=true&width=1100&height=120&color=58A6FF&vCenter=true&size=38">
 </a>
 
----
 
 ## 👨‍💻 About Me
 
