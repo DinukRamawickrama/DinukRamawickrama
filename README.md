@@ -13,8 +13,26 @@
 
 
 <a href="https://github.com/fairyland0926">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Associate%20DevOps%20Engineer%20%40%20Intellimorph;%20Multi-Cloud%20(AWS%20%26%20Azure)%20Specialist;%20Containerization%20%7C%20Infrastructure%20as%20Code;%20CI%2FCD%20Pipeline%20Automation;%20Monitoring%20%26%20Observability&font=Ubuntu+Mono&center=true&width=850&height=120&color=ffffff&vCenter=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%91%8B%20Hello%20World!%20I'm%20Dinuk%20Ramawickrama;%F0%9F%92%BB%20Associate%20DevOps%20Engineer%20@%20Intellimorph;%F0%9F%9B%A1%EF%B8%8F%20Multi-Cloud%20Specialist%20(AWS%20%26%20Azure);%E2%9A%A1%EF%B8%8F%20CI/CD%20%7C%20Containerization%20%7C%20Infrastructure%20as%20Code&font=Fira%20Code&center=true&width=1100&height=120&color=58A6FF&vCenter=true&size=38&duration=4000">
 </a>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Dinuk Kaumika Ramawickrama
+title: Associate DevOps Engineer
+company: Intellimorph
+location: Colombo, Sri Lanka
+education: BSc (Hons) in Computer Networking, University of Kelaniya
+experience: 2+ years in DevOps & Cloud Infrastructure
+focus_areas:
+  - Cloud Infrastructure Automation
+  - CI/CD Pipeline Optimization
+  - Container Orchestration
+  - Monitoring & Observability
+philosophy: "Automate everything, monitor everything, learn continuously"
 
 <br>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=DinukRamawickrama.DinukRamawickrama" />
