@@ -1,7 +1,7 @@
 
 <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Hola%20.%20.%20,%20I'm%20Dinuk%20Ramawickrama%20👋&font=Ubuntu+Mono&center=true&width=850&height=120&color=FFFFFF&vCenter=true&size=45%22"></a>
 
-- 🔭 I am an aspiring DevOps engineer and an undergraduate at the University of Kelaniya.!
+- 🔭 I am a DevOps engineer.
 
 - ✨ I'm a Self Quick Learner with Positive Mind. 
 
