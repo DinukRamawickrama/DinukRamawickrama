@@ -12,10 +12,8 @@
 <a href="https://www.linkedin.com/in/dinuk-kaumika-ramawickrama-2b1082222/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></br>
 
 
-
 <a href="https://github.com/fairyland0926">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Traineer%20Network%20Engineer;1%20year%20of%20Network%20Experience;%20Undergraduate%20at%20University%20of%20Kelaniya%20;%20Always%20Learning%20New%20Technologies&font=Ubuntu+Mono&center=true&width=850&height=120&color=ffffff&vCenter=true">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%20DevOps%20Engineer;1%20year%20of%20Network%20Experience;%20Undergraduate%20at%20University%20of%20Kelaniya%20;%20Always%20Learning%20New%20Technologies&font=Ubuntu+Mono&center=true&width=850&height=120&color=ffffff&vCenter=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Associate%20DevOps%20Engineer%20%40%20Intellimorph;%20Multi-Cloud%20(AWS%20%26%20Azure)%20Specialist;%20Containerization%20%7C%20Infrastructure%20as%20Code;%20CI%2FCD%20Pipeline%20Automation;%20Monitoring%20%26%20Observability&font=Ubuntu+Mono&center=true&width=850&height=120&color=ffffff&vCenter=true&size=25">
 </a>
 
 <br>
