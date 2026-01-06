@@ -5,8 +5,6 @@
 
 - ✨ I'm a Self Quick Learner with Positive Mind. 
 
-- 👯 I’m looking for an DevOps Internship/trainee position for enhance my hands on experiance real world projects.
-
 ### Connect with me:
 
 <a href="dinukkaumika199@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a></br>
@@ -16,7 +14,8 @@
 
 
 <a href="https://github.com/fairyland0926">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Aspiring%20DevOps%20Engineer;1%20year%20of%20Network%20Experience;%20Undergraduate%20at%20University%20of%20Kelaniya%20;%20Always%20Learning%20New%20Technologies&font=Ubuntu+Mono&center=true&width=850&height=120&color=ffffff&vCenter=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Traineer%20Network%20Engineer;1%20year%20of%20Network%20Experience;%20Undergraduate%20at%20University%20of%20Kelaniya%20;%20Always%20Learning%20New%20Technologies&font=Ubuntu+Mono&center=true&width=850&height=120&color=ffffff&vCenter=true">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%20DevOps%20Engineer;1%20year%20of%20Network%20Experience;%20Undergraduate%20at%20University%20of%20Kelaniya%20;%20Always%20Learning%20New%20Technologies&font=Ubuntu+Mono&center=true&width=850&height=120&color=ffffff&vCenter=true">
 </a>
 
 <br>
